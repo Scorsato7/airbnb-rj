@@ -8,6 +8,6 @@ Diante deste cenário, este projeto tem como objetivo realizar uma análise espa
 - [Folium](https://python-visualization.github.io/folium/latest/)
 
 ##📘 Imagens do projeto
-![Mapa MarkerCluste](https://imgur.com/sSVWjm7)
+![Mapa MarkerCluste](https://imgur.com/sSVWjm7.png)
 ![Mapa CircleMarker](https://imgur.com/vOPqHD6)
 ![Mapa HeatMap](https://imgur.com/Zbmy3AB)
